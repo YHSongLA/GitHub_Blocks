@@ -1,0 +1,59 @@
+h1 {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    color: dodgerblue;
+}
+.zen {
+    height: 400px;
+    background-color: palevioletred;
+    margin: 20px;
+}
+
+.ninja {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.daft {
+    height: 400px;
+    background-color: black;
+    margin: 20px;
+}
+
+.music {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 50px;
+}
+
+.marvel {
+    height: 400px;
+    background-color: tomato;
+    margin: 20px;
+}
+
+.heroes {
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    padding-top: 50px;
+}
+
+img {
+    height: 300px;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    font-family: sans-serif;
+}
+
+a {
+    margin-left: 5px;
+    color: dodgerblue;
+}
